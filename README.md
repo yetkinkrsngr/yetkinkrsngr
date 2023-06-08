@@ -2,11 +2,7 @@
 [![MasterHead](https://www.smerin.com/static/565c8b3670db248e0bdc848176270d6a/d5941/websites-banner.jpg)](https://www.linkedin.com/in/yetkin-karasungur/)
 <h1 align="center">Hi 👋, I'm Yetkin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-    <img
-      src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif"
-      style="width: 100%;"
-      alt=""
-    />
+
 
 - 🔭 I’m currently practice on [frontendmento](https://www.frontendmentor.io/profile/yetkinkrsngr)
 
