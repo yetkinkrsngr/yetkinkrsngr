@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
     <img
       src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif"
-      style="width: 1000px"
+      style="width: 100%;"
       alt=""
     />
 
