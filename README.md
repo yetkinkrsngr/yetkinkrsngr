@@ -18,6 +18,7 @@
 
 
 <h1 align="center">Bio:</h1>
+
 - 👋 Hi there! I'm Jane, an enthusiastic learner and aspiring React developer. Welcome to my GitHub profile!
 
 - 📚 I am currently diving deep into the world of web development, with a particular focus on React. I'm captivated by its component-based architecture and its ability to create dynamic and interactive user interfaces.
