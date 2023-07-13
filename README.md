@@ -16,24 +16,25 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yetkin-karasungur/](https://www.linkedin.com/in/yetkin-karasungur/)
 
-
+<br/>
 <h1 align="center">Bio:</h1>
+<br/>
 👋 Hi there! I'm Jane, an enthusiastic learner and aspiring React developer. Welcome to my GitHub profile!
-
+<br/>
 📚 I am currently diving deep into the world of web development, with a particular focus on React. I'm captivated by its component-based architecture and its ability to create dynamic and interactive user interfaces.
-
+<br/>
 💡 My journey into programming started when I realized how powerful and transformative technology can be. I've always had a curious and creative mind, and coding allows me to bring my ideas to life. React, with its robust ecosystem and vast community support, has become my go-to framework for building modern web applications.
-
+<br/>
 🌱 I'm constantly seeking new challenges and pushing my boundaries to enhance my skills as a developer. My projects on GitHub reflect my passion for exploring different aspects of React, from creating reusable components to integrating with backend APIs. I believe in the power of collaboration, and I'm excited to learn from and contribute to the open-source community.
-
+<br/>
 🚀 Besides React, I'm also familiar with HTML, CSS, and JavaScript, which serve as the building blocks of the web. I'm eager to expand my knowledge and explore other technologies that can complement my React skills.
-
+<br/>
 🎓 When I'm not coding, you can find me exploring the great outdoors, sipping a cup of coffee while reading tech blogs, or joining local meetups to connect with fellow developers.
-
+<br/>
 📫 If you're interested in collaborating on a project or have any questions, feel free to reach out to me. Let's learn, grow, and build amazing things together!
-
+<br/>
 Happy coding! 😄
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/yetkinkrsngr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yetkinkrsngr" height="30" width="40" /></a>
