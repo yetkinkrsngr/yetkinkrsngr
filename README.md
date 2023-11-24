@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently practice on [frontendmento](https://www.frontendmentor.io/profile/yetkinkrsngr)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**  **Vue**  **Nodejs**  **MongoDb**
 
 - 🤝 I’m helping people to learn with [Patika.dev](https://academy.patika.dev/profile)
 
